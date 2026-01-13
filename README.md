@@ -1,4 +1,4 @@
-# ARCS_NIPS
+# ARCS_NIPS  
 ## Installation  
 1. **Install MuJoCo 1.3.1**  
    - Download MuJoCo 1.3.1 from [Roboti LLC](https://www.roboti.us/index.html)  
