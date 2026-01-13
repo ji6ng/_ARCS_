@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+
+
 set -euo pipefail
 
 LOG_DIR="./logs"
