@@ -1,6 +1,7 @@
 import http.client
 import json
 
+
 def query_llm(prompt):
     conn = http.client.HTTPSConnection("api.chatanywhere.tech")
     payload_dict = {
